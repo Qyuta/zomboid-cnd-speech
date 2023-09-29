@@ -3,17 +3,44 @@ id=2398253681
 title=Conditional-Speech
 description=[h3]This mod generates speech utilizing a number of conditions as well as some randomization to create dynamic dialogue.[/h3]
 description=
-description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=[url=https://ko-fi.com/chuckleberryfinn][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/kofi.png[/img][/url]
 description=
-description=[url=https://ko-fi.com/chuckleberryfinn][img]https://i.imgur.com/GxZ38nz.png[/img] [b]Consider supporting Chuck[/b][/url]
+description=[h1]If you're having an issue or encountering errors:[/h1]
+description=[h3]First, [b]resubscribe[/b] to this mod, and any related mod.[/h3]
+description=(This will force a download of the latest version.)
+description=[b]If the problem persists, please supply an error log, which can be found here:[/b]
+description=[quote]`C:\Users\<username>\Zomboid\console.txt`[/quote]
+description=Uploaded to any online text viewer, [url=https://pastebin.com/]pastebin[/url] is recomended.
+description=
+description=[h3]Report bugs, offer ideas, or provide translation/new phrases here: [url=https://github.com/ChuckTheSheep/zomboid-cnd-speech]Github.[/url][/h3]
 description=
 description=Note:[list]
 description=[*] Color of speech can be changed in the in-game menu under "multiplayer".
 description=[*] The game will simulate volume by grayscaling your speech. Pick a vibrant color as to tell the difference in volume.
 description=[/list]
 description=
-description=Please offer suggestions/ideas/issues on [url=https://github.com/ChuckTheSheep/zomboid-cnd-speech]Github.[/url]
+description=[b]This mod includes stock phrases for all of the moodles as well as some events.
+description=All of them can be toggled in the menu.[/b]
+description=Additionally, the mod applies a dynamic filter on chat depending on moodle states.
+description=Being drunk, scared, or in pain can make you scream out or be hard to understand.
 description=
-description=Tags:B41,Framework,Lang,Translation,Language
-tags=Build 41;Framework;Misc;Realistic;Silly/Fun
+description=
+description=[h2]Contributors:[/h2]
+description=French Translation: Xianah
+description=Korean Translation: Qyuta
+description=Polish Translation: Koteczek
+description=Portuguese (BR) Translation: Renkien
+description=Russian Translation: MRSEEO
+description=Spanish Translation: JhonArroyo
+description=Turkish Translation: Batur123
+description=Thai Translation: radiusgreenhill
+description=Japanese Translation: RedRenga
+description=Chinese Translation: mrazgrass, cide2021
+description=Italian Translation: Kev1931
+description=Ukrainian Translation: Reveta
+description=
+description=[h3]Thank you to everyone helped translate/contribute to the mod![/h3]
+description=
+description=[h3]Copyright 2023 Chuckleberry Finn. This item is not authorized for posting on Steam, except under the Steam account named Chuckleberry Finn.[/h3]
+tags=Build 41;Framework;Hardmode;Misc;Multiplayer;Realistic;Silly/Fun
 visibility=public
